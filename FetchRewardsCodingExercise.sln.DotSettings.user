@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c596b88_002D97a2_002D44fa_002D858d_002D5690559ce3c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Create" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::89C11277-4548-416A-B160-C7F6A9772927::net6.0::UnitTests.PointsContextTests.Create&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::89C11277-4548-416A-B160-C7F6A9772927::net6.0::UnitTests.PointsContextTests.GetPointTransactions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::89C11277-4548-416A-B160-C7F6A9772927::net6.0::UnitTests.PointsContextTests.SaveNewPointTransaction&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::89C11277-4548-416A-B160-C7F6A9772927::net6.0::UnitTests.PointsContextTests.SaveNewPointTransaction_AutoIncrementKey&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::89C11277-4548-416A-B160-C7F6A9772927::net6.0::UnitTests.PointsContextTests.RetrievePointTransactionByKey&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
