@@ -8,8 +8,9 @@
     <projectFile profileName="IIS Express">FetchRewardsApi/FetchRewardsApi.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19217376-5cd5-4df4-b7e5-3e12237956b2" name="Changes" comment="Deleted file reappeared.  I deleted it again.">
+    <list default="true" id="19217376-5cd5-4df4-b7e5-3e12237956b2" name="Changes" comment="A couple Nuget packages the projects use were upgraded. I installed the upgraded packages and reran the unit/integration test to verify there were no breaking changes.">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FetchRewardsCodingExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FetchRewardsCodingExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests/UnitTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests/UnitTests.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <updated>1663263963842</updated>
       <workItem from="1663263970424" duration="54703000" />
       <workItem from="1663477184125" duration="34611000" />
-      <workItem from="1663620063626" duration="1515000" />
+      <workItem from="1663620063626" duration="3146000" />
     </task>
     <task id="LOCAL-00001" summary="Completed. All unit and integration tests are passing. Manually tested HTTP api using Postman. No further changes are planned.">
       <created>1663620411760</created>
@@ -112,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663620959278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A couple Nuget packages the projects use were upgraded. I installed the upgraded packages and reran the unit/integration test to verify there were no breaking changes.">
+      <created>1663622109829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663622109829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +222,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Completed. All unit and integration tests are passing. Manually tested HTTP api using Postman. No further changes are planned." />
     <MESSAGE value="Deleted file reappeared.  I deleted it again." />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted file reappeared.  I deleted it again." />
+    <MESSAGE value="A couple Nuget packages the projects use were upgraded. I installed the upgraded packages and reran the unit/integration test to verify there were no breaking changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="A couple Nuget packages the projects use were upgraded. I installed the upgraded packages and reran the unit/integration test to verify there were no breaking changes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
