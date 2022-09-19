@@ -1,3 +1,9 @@
-﻿namespace FetchRewardsApi.Records;
+﻿using FetchRewardsApi.Commands;
 
-public record SpendPointsTransaction(int Points);
+namespace FetchRewardsApi.ApiRecords;
+
+/// <summary>
+/// The points passed to the <see cref="SpendPointsCommand"/>
+/// </summary>
+/// <param name="Points">The points to spend.</param>
+public sealed record SpendPointsTransaction(int Points);

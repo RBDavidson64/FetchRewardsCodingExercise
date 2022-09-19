@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="NegativeBalanceError" xml:space="preserve">
+        <value>Operation would result in payer having a negative balance.</value>
+    </data>
+    <data name="NegativeSpendPointsError" xml:space="preserve">
+        <value>Spending a negative number of points is not allowed.</value>
+    </data>
+    <data name="SpendingMorePointsThanAvailableError" xml:space="preserve">
+        <value>An attempt was made to spend more points than are available to allocate.</value>
+    </data>
+    <data name="SpendPointsCommand_RemainingPointsBecameNegativeError" xml:space="preserve">
+        <value>Remaining points became negative.</value>
+    </data>
+    <data name="SpendPointsCommand_PayerBalanceBecameNegativeError" xml:space="preserve">
+        <value>Operation resulted in one or more payers having a negative balance.</value>
+    </data>
+    <data name="NullPayerBalanceReturned" xml:space="preserve">
+        <value>A required payer balance record either was not found or could not be created. Operation is canceled.</value>
+    </data>
+    <data name="TitleOperationWouldCorruptData" xml:space="preserve">
+        <value>Transaction would corrupt data in action {0}</value>
+    </data>
+    <data name="ServiceFault" xml:space="preserve">
+        <value>A service level error occurred executing the action {0}</value>
+    </data>
+    <data name="NullSpentPointsReturned" xml:space="preserve">
+        <value>A required spent points record either was not found or could not be created. Operation is canceled.</value>
+    </data>
+</root>
