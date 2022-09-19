@@ -8,7 +8,9 @@
     <projectFile profileName="IIS Express">FetchRewardsApi/FetchRewardsApi.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19217376-5cd5-4df4-b7e5-3e12237956b2" name="Changes" comment="Completed. All unit and integration tests are passing. Manually tested HTTP api using Postman. No further changes are planned." />
+    <list default="true" id="19217376-5cd5-4df4-b7e5-3e12237956b2" name="Changes" comment="Deleted file reappeared.  I deleted it again.">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FetchRewardsCodingExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FetchRewardsCodingExercise/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="SWEA" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2EoZYDjWR3KH5BWkpU0lsJHzYWJ" />
   <component name="ProjectViewState">
@@ -94,7 +96,7 @@
       <updated>1663263963842</updated>
       <workItem from="1663263970424" duration="54703000" />
       <workItem from="1663477184125" duration="34611000" />
-      <workItem from="1663620063626" duration="373000" />
+      <workItem from="1663620063626" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="Completed. All unit and integration tests are passing. Manually tested HTTP api using Postman. No further changes are planned.">
       <created>1663620411760</created>
@@ -103,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663620411760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deleted file reappeared.  I deleted it again.">
+      <created>1663620959278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663620959278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +213,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Completed. All unit and integration tests are passing. Manually tested HTTP api using Postman. No further changes are planned." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed. All unit and integration tests are passing. Manually tested HTTP api using Postman. No further changes are planned." />
+    <MESSAGE value="Deleted file reappeared.  I deleted it again." />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted file reappeared.  I deleted it again." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
